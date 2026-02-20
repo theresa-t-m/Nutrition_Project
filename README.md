@@ -1,14 +1,14 @@
 # Nutrition_Project
 Exploratory data analysis project of global nutrition data
 
-I downloaded datasets from gapminder.org and who.int to investigate
+I downloaded datasets from gapminder.org and who.int to investigate:
 - how the mean daily energy intake, mean sugar intake and mean household income per capita varies daily between countries
 - how the percentage of population that is overweight varies between countries
 - the relationship between all four variables
 
-I firstly did some exploratory data analysis, where I looked at minimum, maximum, and mean values followed by plotting bar graphs to visualise some of these findings as well as boxplots to visualise the spread of the data and presence of outliers. I will also plot histograms to provide another method to visualise the data.
+I firstly did some exploratory data analysis where I looked at minimum, maximum, and mean values. I then generated bar graphs to visualise some of these findings as well as boxplots to visualise the spread of the data and presence of outliers. I will also plot histograms to provide another method to visualise the spread of the data.
 
-I lastly generated a correlation matrix heatmap, where I looked at the general correlation (Pearson's linear correlation) between all four variables. I will add interactive widgets which will permit graphical visualisations to compare the data between the chosen countries.
+I lastly generated a correlation matrix heatmap, where I looked at the general correlation (Pearson's linear correlation) between all four variables. I will add interactive widgets which will permit graphical visualisations to compare data between countries.
 
 ## Notes on the datasets
 
